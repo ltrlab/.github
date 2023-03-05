@@ -3,4 +3,4 @@ We are a company that is currently in development and is focused on creating pra
 
 While we can't yet disclose exactly what we're working on, we can tell you that our focus is on robotics and automation. We believe that robotics has the potential to revolutionize many industries and help us solve some of the biggest challenges facing humanity today.
 
-If you're interested in learning more about our company and staying up-to-date on our progress, please feel free to check out our website or follow us on social media. We are always looking for new partners, collaborators, and clients who share our vision for a better future. Thanks for stopping by!
+If you're interested in learning more about our company and staying up-to-date on our progress, please feel free to check out our website or follow us on social media.
