@@ -1,6 +1,2 @@
-## We are Long-Term Research and Development (https://ltr.dev)
-We are a company that is currently in development and is focused on creating practical long-term solutions for the present and future needs of our civilization. Our team of skilled engineers and developers is dedicated to pushing the boundaries of technology to create innovative software and robotics solutions that can help make the world a better place.
-
-While we can't yet disclose exactly what we're working on, we can tell you that our focus is on robotics and automation. We believe that robotics has the potential to revolutionize many industries and help us solve some of the biggest challenges facing humanity today.
-
-If you're interested in learning more about our company and staying up-to-date on our progress, please feel free to check out our website or follow us on social media.
+## Long-Term Research Labs (https://ltr.dev)
+Our mission at LTRL is to pioneer a new era of innovation and exploration by developing advanced humanoid robotic systems that empower humanity to transcend its limitations. We strive to unlock the full potential of autonomous technology, enabling the pursuit of extraordinary long-term projects that redefine our understanding of life, work, and our place in the cosmos. Guided by principles of open-source collaboration and responsible progress, we seek to advance the frontiers of human knowledge and catalyze a brighter future for all.
