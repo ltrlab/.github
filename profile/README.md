@@ -1,2 +1,2 @@
-## Long-Term Research Labs (https://ltr.dev)
+## Long Term Research Labs (https://ltr.dev)
 Our mission at LTRL is to pioneer a new era of innovation and exploration by developing advanced humanoid robotic systems that empower humanity to transcend its limitations. We strive to unlock the full potential of autonomous technology, enabling the pursuit of extraordinary long-term projects that redefine our understanding of life, work, and our place in the cosmos. Guided by principles of open-source collaboration and responsible progress, we seek to advance the frontiers of human knowledge and catalyze a brighter future for all.
